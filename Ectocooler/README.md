@@ -1,3 +1,6 @@
+Top blastn hit from 2 reads, 7k each:
+http://www.ncbi.nlm.nih.gov/nucleotide/970867866?report=genbank&log$=nuclalign&blast_rank=1&RID=TX900DCV014
+
 Questions for ONP:
 
 1. Why do the number of pores on the flow cell fluctuate from day-to-day? (~900 to start with, then ~600 the next day when the run started). One flowcell was delivered with zero pores. Can these be replaced?
