@@ -14,3 +14,6 @@ https://community.nanoporetech.com/
 
 Metrichor (basecalling):
 https://metrichor.com/s/
+
+Had to install and use poretools to create fastq:
+http://poretools.readthedocs.io/en/latest/
