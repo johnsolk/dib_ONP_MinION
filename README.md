@@ -1,4 +1,4 @@
-This repo contains files related to the Oxford Nanopore MinION usage:
+This repo contains files related to the dib lab Oxford Nanopore MinION:
 - DNA extractions
 - lib pep protocols
 - Metrichor Reports
