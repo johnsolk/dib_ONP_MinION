@@ -17,3 +17,6 @@ https://metrichor.com/s/
 
 Use poretools to create fastq:
 http://poretools.readthedocs.io/en/latest/
+
+Tutorial from Dr. Nick Loman for analysis:
+http://angus.readthedocs.io/en/2015/analyzing_nanopore_data.html
