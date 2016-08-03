@@ -16,3 +16,6 @@ C:\Users\dib\Documents\ONP\MinIon_device\downloads\fail\
 and one file in
 
 C:\Users\dib\Documents\ONP\MinIon_device\downloads\pass
+
+Ran into problems with scripts failing in MinKnow after poretools was installed (probably Anaconda conflicts):
+https://community.nanoporetech.com/posts/knowledge-exchange-getti#comment_1016
